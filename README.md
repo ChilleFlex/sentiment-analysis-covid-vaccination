@@ -6,7 +6,8 @@ Covid-19 has already been recognized as one of the deadliest pandemics worldwide
 ![covid](https://user-images.githubusercontent.com/42768952/179295387-c250e317-eecc-4cb6-8d4d-9ad0c639bafe.png)
 
 # Data Collection:
-A new dataset was constructed for this project purpose. Data were retrospectively collected from two eminently popular social media platforms: Facebook and Twitter. The dataset contains 3862 Bengali posts that include 53 duplicate values and 2 blanks. The number of data after removing those rows is 3,807. The dataset was collected manually and completely preprocessed and annotated by the authors. 
+A new dataset was constructed for this project purpose. Data were retrospectively collected from two eminently popular social media platforms: Facebook and Twitter. The dataset contains 3862 Bengali posts that include 53 duplicate values and 2 blanks. The number of data after removing those rows is 3,807. The dataset was collected manually and completely preprocessed and annotated by the authors. The dataset is publically available for further scrutiny. 
+Dataset link : https://www.kaggle.com/datasets/chillieflex/covid-vaccination-sentiment-analysis-bangla
 
 # Model:
 Naive Bayes, SVM, Random Forest, Decision Tree, Adaboost, Gradient Boosting.
